@@ -70,7 +70,7 @@ body {
     display: grid;
     place-items: center;
     grid-auto-rows: auto;
-    gap: 12px;
+    gap: 16px;
 }
 
 .links > .link {
